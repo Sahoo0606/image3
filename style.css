@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(142, 144, 144);
+  
+}
+
+img{      
+    
+       
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        margin-top: 100px;
+        border-radius: 20px;
+        box-shadow: 10px 10px 10px rgb(15, 38, 210);
+        transition: all ease.10s;
+        border-radius: 50px;
+        align-items: center;
+        justify-content: center;
+}
+img:hover{
+    transform: scale(1.1);
+}
+h2{
+    color: rgb(15, 16, 17);
+    text-align: center;
+    display: flex;
+    background-color: rgb(82, 97, 226);
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+    align-items: center;
+    border-right-style: dotted;
+    background-size: 50px;
+    border-radius: 55px;
+    background-size: cover;
+    text-shadow: 2px 2px 5px red;
+    box-shadow: 10px 10px 10px rgb(229, 81, 8);
+    width: 820px;
+    height: 70px;
+
+}
+h2:hover{
+    transform: scale(0.9);
+}
+.king{
+    background-color: blueviolet;
+    height: 500px;
+    width: 800px;
+    justify-content: center;
+    display: block;
+    align-items: center;
+    border-radius: 23px;
+    padding-right: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 10px 10px 10px rgb(229, 81, 8);
+    
+}
+
